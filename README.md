@@ -22,6 +22,6 @@ The dataset folder contains the dataset booth processed with FCM and without it.
 
 The model folder contains the trained models. One of them is trained with FCM data. The other is not. 
 
-#Goal
+# Goal
 
 Our goal is to prove FCM could be used to augment training data to get better accuracy with fewer data in our dataset.
